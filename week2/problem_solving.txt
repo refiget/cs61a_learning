@@ -1,0 +1,15 @@
+Problem Solving
+1. input and output
+2. Descirbe how to compute the output from the input.
+3. Figure out the additional names we need to use.
+4.Implement with such additional name.
+5. Check it really works.
+6. Check it for other example.
+
+For example: is_prime problem
+1. input 9 and output False
+2. Check 9 is not a multiple of any integers between 1 and 9.
+3. Introduce i to represent each number between 1 and 9
+4. implement is_prime
+5. Check 
+6. Check for other examle.
